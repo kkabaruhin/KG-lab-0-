@@ -1,0 +1,30 @@
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\bin\Debug\Task_1.exe.config
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\bin\Debug\Task_1.exe
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\bin\Debug\Task_1.pdb
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\obj\Debug\Task 1.csprojAssemblyReference.cache
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\obj\Debug\MainWindow.g.cs
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\obj\Debug\App.g.cs
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\obj\Debug\Task_1_MarkupCompile.cache
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\obj\Debug\Task_1_MarkupCompile.lref
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\obj\Debug\MainWindow.baml
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\obj\Debug\Task_1.g.resources
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\obj\Debug\Task 1.csproj.GenerateResource.cache
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\obj\Debug\Task_1.exe
+C:\Users\Gleb\RiderProjects\ComputerGraphics\Task 1\obj\Debug\Task_1.pdb
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\bin\Debug\Task_1.exe.config
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\bin\Debug\Task_1.exe
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\bin\Debug\Task_1.pdb
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\obj\Debug\Task 1.csprojResolveAssemblyReference.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\obj\Debug\MainWindow.g.cs
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\obj\Debug\App.g.cs
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\obj\Debug\Task_1_MarkupCompile.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\obj\Debug\Task_1_MarkupCompile.lref
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\obj\Debug\MainWindow.baml
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\obj\Debug\Task_1.g.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\obj\Debug\Task 1.csproj.GenerateResource.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\obj\Debug\Task_1.exe
+C:\Users\кирилл\OneDrive\компьютерная графика\lab1\obj\Debug\Task_1.pdb
